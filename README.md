@@ -16,7 +16,7 @@ Primeiramente, me chamo Maykon Freitas, tenho 20 anos e atualmente sou estudante
 <img src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" height="50" alt="GIT">
 <img src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" height="50" alt="LINUX/UNIX">
 <img src=https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png height="50" alt="docker">
-<img src=https://logospng.org/download/node-js/logo-node-js-1024.png height="50" alt="Node.JS">
+<img src=https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png height="50" alt="Node.JS">
 </div>
 
 ## Minhas Redes Sociais
