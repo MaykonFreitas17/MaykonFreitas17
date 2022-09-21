@@ -19,6 +19,7 @@ Primeiramente, me chamo Maykon Freitas, tenho 20 anos e atualmente sou estudante
 <img src=https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png height="50" alt="Node.JS">
 <img src=https://bobcares.com/wp-content/uploads/2022/06/mysql.png height="50" alt="MySQL">
 <img src=https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png height="50" alt="Sequelize">
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png height="50" alt="Typescript">
 </div>
 
 ## Minhas Redes Sociais
